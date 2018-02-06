@@ -8,7 +8,7 @@ document.getElementById("paragraph-one").style.color = "magenta";
 /*
 * Tier II of assignment challenge options = find and replace an instance of "pork" with "ERIN IS AWESOME" each time the user clicks the button.
 *
-* Reference https://www.w3schools.com/jsref/jsref_replace.asp
+* Reference https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_replace
 *
 * Reference https://bootcamp-coders.cnm.edu/class-materials/javascript/events/assignment.php
  */
