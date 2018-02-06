@@ -3,7 +3,10 @@
 *
 * Reference https://bootcamp-coders.cnm.edu/class-materials/javascript/events/assignment.php
  */
-document.getElementById("paragraph-one").style.color = "magenta";
+
+function changeTextColor() {
+	document.getElementById("paragraph-one").style.color = "magenta";
+}
 
 /*
 * Tier II of assignment challenge options = find and replace an instance of "pork" with "ERIN IS AWESOME" each time the user clicks the button.
